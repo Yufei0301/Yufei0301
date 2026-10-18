@@ -24,7 +24,7 @@
 ![C](https://img.shields.io/badge/C-0D2746?style=for-the-badge&logo=c&logoColor=58A6FF)
 ![Python](https://img.shields.io/badge/Python-0D2746?style=for-the-badge&logo=python&logoColor=58A6FF)
 ![STM32](https://img.shields.io/badge/STM32-0D2746?style=for-the-badge&logo=stmicroelectronics&logoColor=58A6FF)
-![PCB](https://img.shields.io/badge/Linux-0D2746?style=for-the-badge&logo=pcb&logoColor=58A6FF)
+![PCB](https://img.shields.io/badge/PCB-0D2746?style=for-the-badge&logo=kicad&logoColor=58A6FF)
 
 </div>
 
