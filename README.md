@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color:#58A6FF">Hi, I'm Hayden 👋</span>
+# <span style="color:#58A6FF">Hi, I'm Yufei Chen 👋</span>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Embedded+Systems+%7C+FPGA+%7C+AI;Building+intelligent+hardware;Learning%2C+designing%2C+and+creating" alt="Typing introduction" />
 
@@ -12,7 +12,7 @@
 
 ### 🌌 About Me
 
-- 🔧 Exploring **STM32, nRF, and Zynq/FPGA** development
+- 🔧 Exploring **STM32, nRF, and PCB** development
 - 🧠 Interested in **embedded AI, sensor fusion, and intelligent wearables**
 - 🛠️ Building systems that connect **hardware, firmware, and algorithms**
 - 📚 Always learning, experimenting, and documenting
