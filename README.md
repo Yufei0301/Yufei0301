@@ -37,22 +37,3 @@ An intelligent wearable prototype exploring dual-IMU motion sensing, prediction 
 
 `Dual IMU` · `Motion Prediction` · `Embedded Control` · `Pneumatics`
 
-> Project link: add your repository URL here when ready.
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=39C5CF" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-*Build with curiosity. Improve through iteration.*
-
-</div>
-
