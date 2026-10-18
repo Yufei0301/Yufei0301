@@ -30,8 +30,30 @@
 
 ### 🚀 Featured Project
 
-**Predictive Dynamic Knee Support**  
-An intelligent wearable prototype exploring dual-IMU motion sensing, prediction of high-load movements, and adaptive pneumatic support.
+### 🦿 Predictive Dynamic Knee Support
+> **Dual IMU · Motion Prediction · Pneumatic Control**
 
-`Dual IMU` · `Motion Prediction` · `Embedded Control` · `Pneumatics`
+An intelligent wearable knee support system that predicts high-load movements using dual IMU sensors and dynamically adjusts pneumatic pressure to provide adaptive knee support.
+
+**Tech Stack:** `STM32` `IMU` `Embedded C` `Motion Prediction` `Pneumatic Control`
+
+---
+
+### 🩺 VTE Detection Device
+> **Medical Electronics · Signal Acquisition · VTE Monitoring**
+
+A medical device designed to assist in detecting potential venous thromboembolism (VTE) through physiological signal acquisition and analysis, supporting the identification of possible thrombotic conditions.
+
+**Tech Stack:** `Medical Electronics` `Sensor Technology` `Signal Processing` `Embedded Systems`
+
+---
+
+### 📡 2.4 GHz Wireless Sensor
+> **nRF MCU · 2.4 GHz Wireless Communication · Sensor Integration**
+
+A compact wireless sensing system built around a Nordic nRF microcontroller, integrating sensor data acquisition and 2.4 GHz wireless transmission for low-power monitoring applications.
+
+**Tech Stack:** `Nordic nRF` `2.4 GHz RF` `Embedded C` `PCB Design` `Wireless Communication`
+
+---
 
